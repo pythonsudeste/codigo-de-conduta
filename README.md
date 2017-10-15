@@ -1,6 +1,6 @@
-# Código de Conduta do Evento Python Brasil
+# Código de Conduta do Evento Python Sudeste
 
-O evento Python Brasil é um ambiente amistoso, de boa convivência, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida.
+O evento Python Sudeste é um ambiente amistoso, de boa convivência, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida.
 
 Com esta finalidade, a organização do evento conta com uma Equipe de Resposta que atua para garantir um ambiente com essas qualidades.
 
@@ -21,3 +21,7 @@ O público alvo do evento também inclui crianças e adolescentes, por isso busc
 Se você se sentiu assediado, discriminado indevidamente ou humilhado, ou presenciou alguma destas atitudes, por favor entre em contato com a Equipe de Resposta.
 
 Havendo um relato de violação destes princípios, a Equipe de Resposta realizará a devida análise e, quando necessário, tomará as ações para impedir a reincidência. Estas ações podem, mas não se restringem nem implicam em ir desde uma conversa em busca da retratação até um convite a se retirar do evento por tempo indeterminado.
+
+---
+
+Este Código de Conduta baseia-se no [Código de Conduta do Evento Python Brasil](https://github.com/pythonbrasil/codigo-de-conduta) podendo ser alterado e melhorado independentemente do original.
