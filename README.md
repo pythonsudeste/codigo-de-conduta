@@ -38,11 +38,11 @@ Therefore:
 
 1. We will not tolerate harassment, inappropriate discrimination or public humiliation of any kind;
 1. We will not tolerate non-compliance with Brazilian laws;
-1. Regardless of their role every person taking part in  the conference, is subject to these rules;
+1. Regardless of their role every person taking part in  the conference is subject to these rules;
 
 Thus we understand:
 
-- Harassment is the act of insisting, persecuting, or coercing someone into involuntary behavior.
+- Harassment is the act of insisting, persecuting or coercing someone into involuntary behavior.
 - Inappropriate discrimination is the act of pulling apart, insulting or humiliating someone by promoting their exclusion by any particular attribute.
 - Public humiliation is the act of subjugating, pulling down, ridiculing or publicly promoting the vexation of others.
 
