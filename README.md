@@ -25,3 +25,32 @@ Havendo um relato de violação destes princípios, a Equipe de Resposta realiza
 ---
 
 Este Código de Conduta baseia-se no [Código de Conduta do Evento Python Brasil](https://github.com/pythonbrasil/codigo-de-conduta) podendo ser alterado e melhorado independentemente do original.
+
+---
+
+# Python Sudeste Code of Conduct
+
+Python Sudeste conference is a friendly, inclusive and harassment-free environment where everyone is welcome and where civility is compulsory.
+
+Conference organizers offer a Response Team acting in order to guarantee such an environment.
+
+Therefore:
+
+1. We will not tolerate harassment, inappropriate discrimination or public humiliation of any kind;
+1. We will not tolerate non-compliance with Brazilian laws;
+1. Regardless of their role every person taking part in  the conference is subject to these rules;
+
+Thus we understand:
+
+- Harassment is the act of insisting, persecuting or coercing someone into involuntary behavior.
+- Inappropriate discrimination is the act of pulling apart, insulting or humiliating someone by promoting their exclusion by any particular attribute.
+- Public humiliation is the act of subjugating, pulling down, ridiculing or publicly promoting the vexation of others.
+
+The target audience of the conference also includes children and adolescents thus we stand for a suitable environment for all age groups. In that sense language and sexualized images are not suitable for lectures and promotional actions by sponsors.
+If you feel harassed, discriminated or humiliated, or if you witnessed any of these behaviors, please contact the Response Team.
+
+In face of any allegation of violation of these principles, the Response Team will examine and consider the case in order to take action to ensure that such events will not happen again. These actions might take the form of a conversation to reconcile the parts, an invitation to leave the event indefinitely or any other form to keep up with the values stated in this Code of Conduct.
+
+---
+
+This Code of Conduct is based on Python Brasil Code of Conduct and may be altered or improved regardless of it’s original.
