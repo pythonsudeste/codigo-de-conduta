@@ -18,7 +18,8 @@ Desta forma, entendemos que:
 
 O público alvo do evento também inclui crianças e adolescentes, por isso buscamos manter um ambiente apropriado para todas as faixas etárias. Sendo assim, linguagem e imagens sexualizadas não são adequados para palestras e ações promocionais de patrocinadores.
 
-Se você se sentiu assediado, discriminado indevidamente ou humilhado, ou presenciou alguma destas atitudes, por favor entre em contato com a Equipe de Resposta.
+> [!IMPORTANT]
+> Se você se sentiu que sofreu assédio, discriminação indevida ou humilhação, ou presenciou alguma destas atitudes, por favor entre em contato com a Equipe de Resposta presencialmente no evento ou através do nosso [formulário de reporte de incidentes](https://forms.gle/E3d8R7vbMe8NdPvF8).
 
 Havendo um relato de violação destes princípios, a Equipe de Resposta realizará a devida análise e, quando necessário, tomará as ações para impedir a reincidência. Estas ações podem, mas não se restringem nem implicam em ir desde uma conversa em busca da retratação até um convite a se retirar do evento por tempo indeterminado.
 
@@ -48,6 +49,9 @@ Thus we understand:
 
 The target audience of the conference also includes children and adolescents thus we stand for a suitable environment for all age groups. In that sense language and sexualized images are not suitable for lectures and promotional actions by sponsors.
 If you feel harassed, discriminated or humiliated, or if you witnessed any of these behaviors, please contact the Response Team.
+
+> [!IMPORTANT]
+> If you felt harassed, discriminated or humiliated, or if you witnessed any of these behaviors, please contact the Response Team in person during the event or through our [incident report form](https://forms.gle/E3d8R7vbMe8NdPvF8).
 
 In face of any allegation of violation of these principles, the Response Team will examine and consider the case in order to take action to ensure that such events will not happen again. These actions might take the form of a conversation to reconcile the parts, an invitation to leave the event indefinitely or any other form to keep up with the values stated in this Code of Conduct.
 
